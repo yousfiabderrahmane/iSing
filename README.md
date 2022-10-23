@@ -4,7 +4,9 @@ This is a Drumkit WebApp created mainly with Javascript, that you can check now 
 
 ## Overview :
 
-![](images/1.png)
+<!-- ![](images/1.png) -->
+
+![](images/31290.png)
 
 ## Features :
 
